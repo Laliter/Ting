@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 28 19:02:04 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-actuator\:jar\:1.2.3.RELEASE from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/springframework/boot/spring-boot-starter-actuator/1.2.3.RELEASE/spring-boot-starter-actuator-1.2.3.RELEASE.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480330924862
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480330924832

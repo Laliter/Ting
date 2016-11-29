@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 15:58:21 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1480404098966
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480405208886
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact com.google.guava\:guava\:jar\:18.0 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/com/google/guava/guava/18.0/guava-18.0.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480400772965
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:jar\:18.0 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: com/google/guava/guava/18.0/guava-18.0.jar from central failed
+http\://repo1.maven.org/maven2/.lastUpdated=1480406301430

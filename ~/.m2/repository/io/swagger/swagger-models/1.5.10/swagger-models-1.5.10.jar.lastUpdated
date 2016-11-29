@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 15:05:21 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact io.swagger\:swagger-models\:jar\:1.5.10 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/io/swagger/swagger-models/1.5.10/swagger-models-1.5.10.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo1.maven.org/maven2/.lastUpdated=1480403121601
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480400888315
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480400772959

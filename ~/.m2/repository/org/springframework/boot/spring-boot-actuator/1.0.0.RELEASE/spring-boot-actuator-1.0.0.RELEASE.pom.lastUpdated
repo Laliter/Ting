@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 00:10:57 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+@default-m2-http\://repo1.maven.org/maven2/.lastUpdated=1480349455274
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.boot\:spring-boot-actuator\:pom\:1.0.0.RELEASE from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/springframework/boot/spring-boot-actuator/1.0.0.RELEASE/spring-boot-actuator-1.0.0.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-actuator\:pom\:1.0.0.RELEASE from/to m2 (http\://repo1.maven.org/maven2)\: GET request of\: org/springframework/boot/spring-boot-actuator/1.0.0.RELEASE/spring-boot-actuator-1.0.0.RELEASE.pom from m2 failed
+https\://repo.maven.apache.org/maven2/.lastUpdated=1480349457531
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480347163988
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480347163960

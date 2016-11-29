@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 28 21:41:33 CST 2016
+http\://repo.spring.io/ext-release-local/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1480340484335
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480335874963
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1480340489958
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:12 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/com/fasterxml/oss-parent/12/oss-parent-12.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo.spring.io/snapshot/.error=
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480335874935
+http\://repo.spring.io/ext-release-local/.lastUpdated=1480340493623
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1480340484896
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:12 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: com/fasterxml/oss-parent/12/oss-parent-12.pom from central failed
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:12 from/to m2 (http\://repo1.maven.org/maven2)\: GET request of\: com/fasterxml/oss-parent/12/oss-parent-12.pom from m2 failed
+@default-m2-http\://repo1.maven.org/maven2/.lastUpdated=1480338160251

@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 28 19:37:39 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+@default-m2-http\://repo1.maven.org/maven2/.lastUpdated=1480332991831
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.0.0.RC1 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/springframework/boot/spring-boot-starter-parent/1.0.0.RC1/spring-boot-starter-parent-1.0.0.RC1.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.0.0.RC1 from/to m2 (http\://repo1.maven.org/maven2)\: Connect to repo1.maven.org\:80 [repo1.maven.org/151.101.36.209] failed\: Connection timed out\: connect
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480332970770
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480332970611
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1480333059787
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.0.0.RC1 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.16.215] failed\: Read timed out

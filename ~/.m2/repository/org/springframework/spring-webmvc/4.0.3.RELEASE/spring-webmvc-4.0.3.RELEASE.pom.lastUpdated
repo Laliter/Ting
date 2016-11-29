@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 28 23:32:41 CST 2016
+http\://repo.spring.io/ext-release-local/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1480347157696
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480342753368
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1480347160667
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework\:spring-webmvc\:pom\:4.0.3.RELEASE from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo.spring.io/snapshot/.error=
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480342753008
+http\://repo.spring.io/ext-release-local/.lastUpdated=1480347161275
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1480347158947
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-webmvc\:pom\:4.0.3.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Read timed out
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-webmvc\:pom\:4.0.3.RELEASE from/to m2 (http\://repo1.maven.org/maven2)\: GET request of\: org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.pom from m2 failed
+@default-m2-http\://repo1.maven.org/maven2/.lastUpdated=1480344556014
