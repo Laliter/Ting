@@ -1,0 +1,7 @@
+webdev\DemoApplication.class
+webdev\dao\model\User.class
+webdev\config\SwaggerConfig.class
+webdev\kafka\KafkaProperties.class
+webdev\controller\DemoController.class
+webdev\kafka\KafkaConsumer.class
+webdev\kafka\KafkaProducer.class
