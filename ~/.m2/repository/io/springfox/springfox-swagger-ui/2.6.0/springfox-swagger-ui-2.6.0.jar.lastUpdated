@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 20:30:05 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+default-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480422542237
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact io.springfox\:springfox-swagger-ui\:jar\:2.6.0 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/io/springfox/springfox-swagger-ui/2.6.0/springfox-swagger-ui-2.6.0.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo1.maven.org/maven2/.lastUpdated=1480422605458
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480421756769

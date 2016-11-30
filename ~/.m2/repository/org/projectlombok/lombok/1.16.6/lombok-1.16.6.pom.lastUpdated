@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 30 10:13:32 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.16.6 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/projectlombok/lombok/1.16.6/lombok-1.16.6.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo1.maven.org/maven2/.lastUpdated=1480472012084
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480472010994
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480472010966

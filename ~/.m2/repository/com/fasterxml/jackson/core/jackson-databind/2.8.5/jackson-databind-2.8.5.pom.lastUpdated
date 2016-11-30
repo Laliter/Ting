@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 20:51:51 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:pom\:2.8.5 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+default-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480423902136
+http\://repo1.maven.org/maven2/.lastUpdated=1480423911523
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480423902011

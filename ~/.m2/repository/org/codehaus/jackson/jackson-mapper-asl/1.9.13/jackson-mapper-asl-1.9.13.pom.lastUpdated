@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 30 09:17:49 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.9.13 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+default-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480468668599
+http\://repo1.maven.org/maven2/.lastUpdated=1480468669654
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480468668574

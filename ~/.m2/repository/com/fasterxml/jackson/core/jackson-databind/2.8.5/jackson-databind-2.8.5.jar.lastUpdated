@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 21:08:04 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+default-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480424432372
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:jar\:2.8.5 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo1.maven.org/maven2/.lastUpdated=1480424884528
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480424667421
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480423922786

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 30 10:37:38 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.projectlombok\:lombok\:jar\:1.16.4 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/projectlombok/lombok/1.16.4/lombok-1.16.4.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+default-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480473375917
+http\://repo1.maven.org/maven2/.lastUpdated=1480473458594
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480473375895

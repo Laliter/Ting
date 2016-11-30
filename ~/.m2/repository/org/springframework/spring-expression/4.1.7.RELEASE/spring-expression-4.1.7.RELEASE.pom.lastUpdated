@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 30 09:09:51 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:4.1.7.RELEASE from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/org/springframework/spring-expression/4.1.7.RELEASE/spring-expression-4.1.7.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+default-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480468189997
+http\://repo1.maven.org/maven2/.lastUpdated=1480468191785
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480468189974

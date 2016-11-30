@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 19:36:02 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact io.springfox\:springfox-swagger-ui\:jar\:2.4.0 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/io/springfox/springfox-swagger-ui/2.4.0/springfox-swagger-ui-2.4.0.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://repo1.maven.org/maven2/.lastUpdated=1480419362287
+@default-xinbang-snapshot-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480419324294
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480418757460

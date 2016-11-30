@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 29 20:52:02 CST 2016
+http\://118.178.238.86\:8081/repository/maven-releases/.error=
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:pom\:2.8.5 from/to xinbang-snapshot (http\://118.178.238.86\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-snapshots/com/fasterxml/jackson/core/jackson-core/2.8.5/jackson-core-2.8.5.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+default-http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1480423921284
+http\://repo1.maven.org/maven2/.lastUpdated=1480423922728
+http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1480423921259
