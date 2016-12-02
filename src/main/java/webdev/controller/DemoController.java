@@ -1,6 +1,5 @@
 package webdev.controller;
 
-import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
@@ -15,7 +14,7 @@ import java.util.*;
  */
 @RestController
 @RequestMapping("/comm")
-@Api
+//@Api
 public class DemoController {
 
     /**

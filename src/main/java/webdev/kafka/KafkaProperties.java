@@ -4,7 +4,7 @@ package webdev.kafka;
  * Created by dell on 2016-11-30.
  */
 public interface KafkaProperties {
-    final static String zkConnect = "192.168.1.233:2182";
+    final static String zkConnect = "192.168.1.233:2181";
     final static String groupId = "group1";
     final static String topic = "topic1";
     final static String kafkaServerURL = "192.168.1.233";
